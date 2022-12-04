@@ -1,3 +1,5 @@
+// https://www.aluracursos.com/blog/comprenda-diferencia-entre-var-let-y-const-en-javascript
+
 const nombreMaria = "María";
 const NombreMaria = "Teresa";
 
