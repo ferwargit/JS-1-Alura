@@ -52,3 +52,5 @@ if (puedeComprar && destinoDisponible) {
 }
 
 console.log(`Destino esta disponible: ${destinoDisponible}`);
+
+// https://ljcl79.medium.com/entendiendo-los-lazos-o-ciclos-en-javascript-25f3a9dd279d
